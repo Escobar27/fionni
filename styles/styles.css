@@ -20,6 +20,8 @@ nav{
   margin: 0;
 }
 }
-@media screen and (min-width: 320px){
-
+@media screen and (min-width: 320px){  
+.about{
+    color:red;
+}
 }
